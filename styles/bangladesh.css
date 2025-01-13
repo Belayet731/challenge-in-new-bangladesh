@@ -1,0 +1,15 @@
+
+
+/* table of contents
+1. reset css
+2. css variables
+3. utility css
+4. page css
+5. component css
+6. font css  */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Fira Sans;
+}
