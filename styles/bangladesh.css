@@ -45,4 +45,18 @@ nav ul li {
     font-size: 20px;
   }
 
+    /* banner styles */
+    .banner{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .banner-content{
+      max-width: 580px;
+    }
+
+
+}
+.banner-profile-pic{
+  width: 580px;
 }
