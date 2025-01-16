@@ -31,6 +31,13 @@ nav ul{
   display:flex;
 }
 
+    /* banner styles */
+    .banner{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
 
 .nav-title{
   font-weight:800;
@@ -45,12 +52,7 @@ nav ul li {
     font-size: 20px;
   }
 
-    /* banner styles */
-    .banner{
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
+
     .banner-content{
       max-width: 580px;
     }
